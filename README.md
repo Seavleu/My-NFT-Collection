@@ -1,6 +1,9 @@
 # My NFT Collection
 
 This project was created for learning purposes. Feel free to clone or fork the repository and test the code.
+![image](https://github.com/Seavleu/My-NFT-Collection/assets/86590058/d9c7e6b5-155a-48e5-9dc3-b03b3045a711)
+![image](https://github.com/Seavleu/My-NFT-Collection/assets/86590058/c37da588-0fd1-47f1-addd-041f6dcef8f8)
+
 
 ## Prerequisites
 Before getting started, make sure you have the following:
